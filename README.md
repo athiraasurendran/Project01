@@ -8,3 +8,5 @@ Boosting:- In boosting, we train a sequence of models. Each model is trained on 
 
 Stacking:- In stacking, the predictions of base models are fed as input to a meta-model (or meta-learner). The job of the meta-model is to take the predictions of the base models and make a final prediction.
 
+added new line
+
